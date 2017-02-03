@@ -1,0 +1,1 @@
+cmd_drivers/usb/gadget/g_android.o := /home/serinity/Android/toolchain/linaro-494-gcc-master/bin/arm-cortex_a7-linux-gnueabihf-ld.bfd -EL    -r -o drivers/usb/gadget/g_android.o drivers/usb/gadget/android.o 

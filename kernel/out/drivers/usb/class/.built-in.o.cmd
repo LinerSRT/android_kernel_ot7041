@@ -1,0 +1,1 @@
+cmd_drivers/usb/class/built-in.o :=  /home/serinity/Android/toolchain/linaro-494-gcc-master/bin/arm-cortex_a7-linux-gnueabihf-ld.bfd -EL    -r -o drivers/usb/class/built-in.o drivers/usb/class/cdc-acm.o drivers/usb/class/usblp.o 

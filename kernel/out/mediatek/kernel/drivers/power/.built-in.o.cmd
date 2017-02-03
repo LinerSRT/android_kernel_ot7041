@@ -1,0 +1,1 @@
+cmd_mediatek/kernel/drivers/power/built-in.o :=  /home/serinity/Android/toolchain/linaro-494-gcc-master/bin/arm-cortex_a7-linux-gnueabihf-ld.bfd -EL    -r -o mediatek/kernel/drivers/power/built-in.o mediatek/kernel/drivers/power/battery_meter.o mediatek/kernel/drivers/power/battery_common.o mediatek/kernel/drivers/power/switch_charging.o 

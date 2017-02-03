@@ -1,0 +1,1 @@
+cmd_drivers/video/omap2/built-in.o :=  /home/serinity/Android/toolchain/linaro-494-gcc-master/bin/arm-cortex_a7-linux-gnueabihf-ld.bfd -EL    -r -o drivers/video/omap2/built-in.o drivers/video/omap2/displays/built-in.o 

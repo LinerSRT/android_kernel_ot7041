@@ -1,0 +1,1 @@
+cmd_mediatek/kernel/drivers/ram_console/built-in.o :=  /home/serinity/Android/toolchain/linaro-494-gcc-master/bin/arm-cortex_a7-linux-gnueabihf-ld.bfd -EL    -r -o mediatek/kernel/drivers/ram_console/built-in.o mediatek/kernel/drivers/ram_console/mtk_ram_console.o 

@@ -1,0 +1,1 @@
+cmd_drivers/misc/carma/built-in.o :=  rm -f drivers/misc/carma/built-in.o; /home/serinity/Android/toolchain/linaro-494-gcc-master/bin/arm-cortex_a7-linux-gnueabihf-ar rcsD drivers/misc/carma/built-in.o

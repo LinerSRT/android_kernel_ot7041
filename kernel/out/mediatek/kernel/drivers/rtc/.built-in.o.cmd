@@ -1,0 +1,1 @@
+cmd_mediatek/kernel/drivers/rtc/built-in.o :=  /home/serinity/Android/toolchain/linaro-494-gcc-master/bin/arm-cortex_a7-linux-gnueabihf-ld.bfd -EL    -r -o mediatek/kernel/drivers/rtc/built-in.o mediatek/kernel/drivers/rtc/mtk_rtc_common.o 

@@ -1,0 +1,1 @@
+cmd_mediatek/kernel/drivers/dum-char/DumChar.o := /home/serinity/Android/toolchain/linaro-494-gcc-master/bin/arm-cortex_a7-linux-gnueabihf-ld.bfd -EL    -r -o mediatek/kernel/drivers/dum-char/DumChar.o mediatek/kernel/drivers/dum-char/dumchar.o mediatek/kernel/drivers/dum-char/partition_define.o mediatek/kernel/drivers/dum-char/env.o 
