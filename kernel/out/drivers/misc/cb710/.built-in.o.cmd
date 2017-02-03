@@ -1,1 +1,0 @@
-cmd_drivers/misc/cb710/built-in.o :=  rm -f drivers/misc/cb710/built-in.o; /home/serinity/Android/toolchain/linaro-494-gcc-master/bin/arm-cortex_a7-linux-gnueabihf-ar rcsD drivers/misc/cb710/built-in.o

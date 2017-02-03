@@ -1,1 +1,0 @@
-cmd_fs/isofs/isofs.o := /home/serinity/Android/toolchain/linaro-494-gcc-master/bin/arm-cortex_a7-linux-gnueabihf-ld.bfd -EL    -r -o fs/isofs/isofs.o fs/isofs/namei.o fs/isofs/inode.o fs/isofs/dir.o fs/isofs/util.o fs/isofs/rock.o fs/isofs/export.o fs/isofs/joliet.o fs/isofs/compress.o 

@@ -1,1 +1,0 @@
-cmd_fs/notify/fanotify/built-in.o :=  rm -f fs/notify/fanotify/built-in.o; /home/serinity/Android/toolchain/linaro-494-gcc-master/bin/arm-cortex_a7-linux-gnueabihf-ar rcsD fs/notify/fanotify/built-in.o

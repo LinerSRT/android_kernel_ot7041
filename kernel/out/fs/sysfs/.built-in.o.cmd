@@ -1,1 +1,0 @@
-cmd_fs/sysfs/built-in.o :=  /home/serinity/Android/toolchain/linaro-494-gcc-master/bin/arm-cortex_a7-linux-gnueabihf-ld.bfd -EL    -r -o fs/sysfs/built-in.o fs/sysfs/inode.o fs/sysfs/file.o fs/sysfs/dir.o fs/sysfs/symlink.o fs/sysfs/mount.o fs/sysfs/bin.o fs/sysfs/group.o 

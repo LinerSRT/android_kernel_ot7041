@@ -1,1 +1,0 @@
-cmd_drivers/gpu/built-in.o :=  /home/serinity/Android/toolchain/linaro-494-gcc-master/bin/arm-cortex_a7-linux-gnueabihf-ld.bfd -EL    -r -o drivers/gpu/built-in.o drivers/gpu/drm/built-in.o drivers/gpu/vga/built-in.o drivers/gpu/stub/built-in.o drivers/gpu/ion/built-in.o 

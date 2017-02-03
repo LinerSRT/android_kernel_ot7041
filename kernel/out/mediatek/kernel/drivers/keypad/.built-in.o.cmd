@@ -1,1 +1,0 @@
-cmd_mediatek/kernel/drivers/keypad/built-in.o :=  /home/serinity/Android/toolchain/linaro-494-gcc-master/bin/arm-cortex_a7-linux-gnueabihf-ld.bfd -EL    -r -o mediatek/kernel/drivers/keypad/built-in.o mediatek/kernel/drivers/keypad/kpd.o 

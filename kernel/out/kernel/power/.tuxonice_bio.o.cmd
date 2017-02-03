@@ -1,1 +1,0 @@
-cmd_kernel/power/tuxonice_bio.o := /home/serinity/Android/toolchain/linaro-494-gcc-master/bin/arm-cortex_a7-linux-gnueabihf-ld.bfd -EL    -r -o kernel/power/tuxonice_bio.o kernel/power/tuxonice_bio_core.o kernel/power/tuxonice_bio_chains.o kernel/power/tuxonice_bio_signature.o 

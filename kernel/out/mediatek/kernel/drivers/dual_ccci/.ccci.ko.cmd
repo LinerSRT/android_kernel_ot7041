@@ -1,1 +1,0 @@
-cmd_mediatek/kernel/drivers/dual_ccci/ccci.ko := /home/serinity/Android/toolchain/linaro-494-gcc-master/bin/arm-cortex_a7-linux-gnueabihf-ld.bfd -EL -r  -T /home/serinity/Alcatel/OT_7042/kernel/scripts/module-common.lds --build-id  -o mediatek/kernel/drivers/dual_ccci/ccci.ko mediatek/kernel/drivers/dual_ccci/ccci.o mediatek/kernel/drivers/dual_ccci/ccci.mod.o

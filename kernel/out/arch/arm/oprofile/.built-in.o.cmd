@@ -1,1 +1,0 @@
-cmd_arch/arm/oprofile/built-in.o :=  /home/serinity/Android/toolchain/linaro-494-gcc-master/bin/arm-cortex_a7-linux-gnueabihf-ld.bfd -EL    -r -o arch/arm/oprofile/built-in.o arch/arm/oprofile/oprofile.o 

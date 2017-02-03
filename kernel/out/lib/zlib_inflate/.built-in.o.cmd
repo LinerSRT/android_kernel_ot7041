@@ -1,1 +1,0 @@
-cmd_lib/zlib_inflate/built-in.o :=  /home/serinity/Android/toolchain/linaro-494-gcc-master/bin/arm-cortex_a7-linux-gnueabihf-ld.bfd -EL    -r -o lib/zlib_inflate/built-in.o lib/zlib_inflate/zlib_inflate.o 

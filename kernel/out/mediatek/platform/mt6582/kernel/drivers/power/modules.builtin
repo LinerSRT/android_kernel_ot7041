@@ -1,5 +1,0 @@
-kernel/mediatek/platform/mt6582/kernel/drivers/power/pmic_mt6323.ko
-kernel/mediatek/platform/mt6582/kernel/drivers/power/upmu_common.ko
-kernel/mediatek/platform/mt6582/kernel/drivers/power/battery_meter_hal.ko
-kernel/mediatek/platform/mt6582/kernel/drivers/power/fan5405.ko
-kernel/mediatek/platform/mt6582/kernel/drivers/power/charging_hw_fan5405.ko

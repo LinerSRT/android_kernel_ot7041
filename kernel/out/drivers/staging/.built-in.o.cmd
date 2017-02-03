@@ -1,1 +1,0 @@
-cmd_drivers/staging/built-in.o :=  /home/serinity/Android/toolchain/linaro-494-gcc-master/bin/arm-cortex_a7-linux-gnueabihf-ld.bfd -EL    -r -o drivers/staging/built-in.o drivers/staging/staging.o drivers/staging/serial/built-in.o drivers/staging/media/built-in.o drivers/staging/zram/built-in.o drivers/staging/zsmalloc/built-in.o drivers/staging/android/built-in.o 

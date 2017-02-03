@@ -1,1 +1,0 @@
-cmd_mediatek/kernel/drivers/ion_drv/built-in.o :=  /home/serinity/Android/toolchain/linaro-494-gcc-master/bin/arm-cortex_a7-linux-gnueabihf-ld.bfd -EL    -r -o mediatek/kernel/drivers/ion_drv/built-in.o mediatek/kernel/drivers/ion_drv/ion_drv.o mediatek/kernel/drivers/ion_drv/ion_mm_heap.o mediatek/kernel/drivers/ion_drv/ion_sys_contig_heap.o 

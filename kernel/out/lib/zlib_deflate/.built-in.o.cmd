@@ -1,1 +1,0 @@
-cmd_lib/zlib_deflate/built-in.o :=  /home/serinity/Android/toolchain/linaro-494-gcc-master/bin/arm-cortex_a7-linux-gnueabihf-ld.bfd -EL    -r -o lib/zlib_deflate/built-in.o lib/zlib_deflate/zlib_deflate.o 

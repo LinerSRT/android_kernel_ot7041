@@ -1,1 +1,0 @@
-cmd_mediatek/kernel/drivers/mtprof/mtprof.o := /home/serinity/Android/toolchain/linaro-494-gcc-master/bin/arm-cortex_a7-linux-gnueabihf-ld.bfd -EL    -r -o mediatek/kernel/drivers/mtprof/mtprof.o mediatek/kernel/drivers/mtprof/prof_ctl.o mediatek/kernel/drivers/mtprof/prof_main.o 

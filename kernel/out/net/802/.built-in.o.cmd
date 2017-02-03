@@ -1,1 +1,0 @@
-cmd_net/802/built-in.o :=  /home/serinity/Android/toolchain/linaro-494-gcc-master/bin/arm-cortex_a7-linux-gnueabihf-ld.bfd -EL    -r -o net/802/built-in.o net/802/p8022.o net/802/psnap.o net/802/stp.o 

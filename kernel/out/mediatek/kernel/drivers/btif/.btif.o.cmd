@@ -1,1 +1,0 @@
-cmd_mediatek/kernel/drivers/btif/btif.o := /home/serinity/Android/toolchain/linaro-494-gcc-master/bin/arm-cortex_a7-linux-gnueabihf-ld.bfd -EL    -r -o mediatek/kernel/drivers/btif/btif.o mediatek/kernel/drivers/btif/mtk_btif.o mediatek/kernel/drivers/btif/mtk_btif_exp.o 

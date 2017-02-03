@@ -1,1 +1,0 @@
-cmd_drivers/usb/storage/ums-jumpshot.o := /home/serinity/Android/toolchain/linaro-494-gcc-master/bin/arm-cortex_a7-linux-gnueabihf-ld.bfd -EL    -r -o drivers/usb/storage/ums-jumpshot.o drivers/usb/storage/jumpshot.o 

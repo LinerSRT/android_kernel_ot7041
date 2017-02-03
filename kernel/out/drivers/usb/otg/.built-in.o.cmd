@@ -1,1 +1,0 @@
-cmd_drivers/usb/otg/built-in.o :=  /home/serinity/Android/toolchain/linaro-494-gcc-master/bin/arm-cortex_a7-linux-gnueabihf-ld.bfd -EL    -r -o drivers/usb/otg/built-in.o drivers/usb/otg/otg.o drivers/usb/otg/nop-usb-xceiv.o 

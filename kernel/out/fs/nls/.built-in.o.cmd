@@ -1,1 +1,0 @@
-cmd_fs/nls/built-in.o :=  /home/serinity/Android/toolchain/linaro-494-gcc-master/bin/arm-cortex_a7-linux-gnueabihf-ld.bfd -EL    -r -o fs/nls/built-in.o fs/nls/nls_base.o fs/nls/nls_cp437.o fs/nls/nls_cp950.o fs/nls/nls_ascii.o fs/nls/nls_iso8859-1.o fs/nls/nls_utf8.o 

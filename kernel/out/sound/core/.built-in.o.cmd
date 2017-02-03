@@ -1,1 +1,0 @@
-cmd_sound/core/built-in.o :=  /home/serinity/Android/toolchain/linaro-494-gcc-master/bin/arm-cortex_a7-linux-gnueabihf-ld.bfd -EL    -r -o sound/core/built-in.o sound/core/snd.o sound/core/snd-timer.o sound/core/snd-pcm.o sound/core/snd-page-alloc.o sound/core/oss/built-in.o 

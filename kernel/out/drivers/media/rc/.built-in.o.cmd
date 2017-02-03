@@ -1,1 +1,0 @@
-cmd_drivers/media/rc/built-in.o :=  /home/serinity/Android/toolchain/linaro-494-gcc-master/bin/arm-cortex_a7-linux-gnueabihf-ld.bfd -EL    -r -o drivers/media/rc/built-in.o drivers/media/rc/keymaps/built-in.o 
